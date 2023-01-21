@@ -699,7 +699,10 @@ return`━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ❳━━━
 ┃▢ ${prefix}pussy_jpg
 ┃▢ ${prefix}kemonomimi
 ┃▢ ${prefix}nsfw_avatar
+
 ┗━━━━━━━━━━━━`
+
+
 }
 
 exports.rulesBot = () =>{
@@ -723,13 +726,13 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+*Payment Maxis*
+Number: 0177302593
+A/N: QYLE STORE
 
-*Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+*Payment celcom*
+Number: PM OWNER
+A/N: QYLEBOTZ
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +743,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
- • *Umur:* 18 tahun
+ • *Nama:* Qyle
+ • *Umur:* 17 tahun
  • *Hoby:* Turu/Game
- • *Askot:* Palembang
- • *Konten:* Creator
+ • *Askot:* ha
+ • *Konten:* Choreography 
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
+ • *Whatsapp:* 0177302593
+ • *Youtube:* www.instagram.com/jstme._____
  • *Github:* Lexxy24
  `
 }
